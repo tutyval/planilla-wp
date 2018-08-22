@@ -8,4 +8,25 @@
 <?php wp_head() ?>
 </head>
 <body>
+
+<nav class="gtco-nav" role="navigation">
+			<div class="gtco-container">
+				
+				<div class="row">
+					<div class="col-sm-2 col-xs-12">
+						<div id="gtco-logo"><a href="index.html"> Vidrotemp</div>
+					</div>
+					<div class="col-xs-10 text-right menu-1">
+						<ul>
+							<li class="active"><a href="index.html">Inicio</a></li>
+							<li><a href="about.html">Acerca de </a></li>
+							<li><a href="#">Servicios</a></li>
+							<li><a href="portfolio.html">Portafolio</a></li>
+							<li><a href="contact.html">Contacto</a></li>
+						</ul>
+					</div>
+				</div>
+				
+			</div>
+		</nav>	
 	
