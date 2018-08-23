@@ -1,7 +1,4 @@
-<?php wp_footer() ?>
-</body>
-</html>
-		<div class="gtco-container">
+<div class="gtco-container">
 				<div class="row row-pb-md">
 					<div class="col-md-4 gtco-widget gtco-footer-paragraph">
 						<h3>Berilio</h3>
@@ -41,3 +38,7 @@
 					</div>
 				</div>
 			</div>
+<?php wp_footer() ?>
+</body>
+</html>
+		
